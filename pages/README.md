@@ -1,3 +1,3 @@
 # BBZBL Modlue Page Template
 
-Hier erzähle ich dir mal was!
+Eine kleine Einführung in Google Pages gibt es [hier](./slides/introduction)
