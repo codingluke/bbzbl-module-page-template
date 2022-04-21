@@ -15,7 +15,7 @@ let test = 1;
 - asdf
 - asdf
 
-[ ] asdf
-[x] asdfd
+- [ ] asdf
+- [x] asdfd
 
 ![](https://www.warnerclassics.com/sites/default/files/styles/artist_slider_1280x650/public/H400044.jpg?itok=2Y5Rwhnj)
